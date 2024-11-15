@@ -58,7 +58,16 @@ print(cm)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/22cf0650-bda1-4840-a161-d81a2cc80b04)
+### Iris dataset
+
+![1w](https://github.com/user-attachments/assets/0d227501-0732-4a86-9835-cd83dea8379a)
+
+### Accuracy
+![ds](https://github.com/user-attachments/assets/f1946dd3-6617-40c2-910f-8d0eda3b3501)
+
+
+### Confusion Matrix
+![s](https://github.com/user-attachments/assets/479d2654-80ac-45d5-bdee-fd8409445f42)
 
 
 ## Result:
